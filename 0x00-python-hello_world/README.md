@@ -1,0 +1,1 @@
+# Aim is to learn about variables, basic commands and handling strings with python
